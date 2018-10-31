@@ -1,0 +1,5 @@
+# Obj files
+*.o
+
+# Examples
+Programa/example*
